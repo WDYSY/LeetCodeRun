@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a29d71e742cfcedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71382a3e88ea1f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "8e644064c5287a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/1 two-sum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0831fcc845ed008b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/1 two-sum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "352afd68e44ee898",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LeetCode/2 add-two-numbers.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "31b6482d9e18b1ac",
+        "type": "leaf",
+        "state": {
+          "type": "mindmap",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc8c89d9dc8b2bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b488c09fbcd5efae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ace1dd335de7c36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38e6ce557644a42b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea5626dda41e1097",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c942443d85738dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412
+  },
+  "right": {
+    "id": "430e95d9be62d14c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d01930ebb872a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21cbcbc6d4e5d35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LeetCode/2 add-two-numbers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c2af28d7dcdc6c09",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b34f964a0e4ad0e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "352afd68e44ee898",
+  "lastOpenFiles": [
+    "LeetCode/2 add-two-numbers.md",
+    "Ref/R1-1 pic/2-1 易错点.png",
+    "muban.md",
+    "LeetCode/1 two-sum.md",
+    "README.md",
+    "template.md",
+    "Z2-Repository/Z2-1 Daily Notes/2022-05-23.md",
+    "I2-KANBAN/FRONTEND Kanban.md",
+    "Z1-Rerference/Z1-1 BOOK Repository/杂志/386977386-1-208.mp4",
+    "Z1-Rerference/Z1-1 BOOK Repository/理论型/(台湾高中教材) 翰林 - 公民与社会（选修上） (2017).pdf"
+  ]
+}
