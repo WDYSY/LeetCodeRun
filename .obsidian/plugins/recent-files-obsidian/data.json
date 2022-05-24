@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "4-2 没通过的测试用例",
+      "path": "Ref/R1-1 pic/4-2 没通过的测试用例.png"
+    },
+    {
+      "basename": "4 median-of-two-sorted-arrays",
+      "path": "LeetCode/4 median-of-two-sorted-arrays.md"
+    },
+    {
+      "basename": "3 longest-substring-without-repeating-characters",
+      "path": "LeetCode/3 longest-substring-without-repeating-characters.md"
+    },
+    {
+      "basename": "3-1 易错点",
+      "path": "Ref/R1-1 pic/3-1 易错点.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "1 two-sum",
+      "path": "LeetCode/1 two-sum.md"
+    },
+    {
       "basename": "2 add-two-numbers",
       "path": "LeetCode/2 add-two-numbers.md"
     },
@@ -11,14 +35,6 @@
     {
       "basename": "muban",
       "path": "muban.md"
-    },
-    {
-      "basename": "1 two-sum",
-      "path": "LeetCode/1 two-sum.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "template",
