@@ -5,7 +5,7 @@
 ```
 ## Optimized
 ```copy
-var convert = function(s, numRows) {
+    var convert = function(s, numRows) {
     let cycletemplate = [...new Array(numRows).keys()]
     cycletemplate.push(...cycletemplate.slice(1,-1).reverse());
     let rows = new Array(numRows).fill('')
